@@ -609,7 +609,6 @@ D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDI
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.TagHelpers.output.cache
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.RazorCoreGenerate.cache
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\NavigationMenu\Default.cshtml.g.cs
-D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PageTypes\MEDIOClinic_About.cshtml.g.cs
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PageTypes\MEDIO_Home.cshtml.g.cs
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PageTypes\MEDIO_MedicalCenter.cshtml.g.cs
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -621,3 +620,4 @@ D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDI
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.dll
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.pdb
 D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.genruntimeconfig.cache
+D:\New Project Medio Clinic\MedioClinic\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PageTypes\MEDIO_About.cshtml.g.cs
