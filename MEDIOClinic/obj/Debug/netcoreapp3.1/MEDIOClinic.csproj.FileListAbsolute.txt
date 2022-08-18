@@ -620,3 +620,4 @@ C:\inetpub\wwwroot\Xperience13\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.c
 C:\inetpub\wwwroot\Xperience13\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.dll
 C:\inetpub\wwwroot\Xperience13\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.pdb
 C:\inetpub\wwwroot\Xperience13\MEDIOClinic\obj\Debug\netcoreapp3.1\MEDIOClinic.genruntimeconfig.cache
+C:\inetpub\wwwroot\Xperience13\MEDIOClinic\obj\Debug\netcoreapp3.1\Razor\Views\Shared\PageTypes\MEDIO_Contact.cshtml.g.cs
